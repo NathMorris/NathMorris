@@ -1,4 +1,4 @@
-- # Hi, I'm Natha Morris 👋
+- # Hi, I'm Nath Morris 👋
 
 Welcome to my GitHub profile! Here’s a bit about me:
 
